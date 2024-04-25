@@ -16,6 +16,8 @@ Below is an example of how I expect the form to look like:
 
 Each rows are grouped and have checkboxes for their own individual groups. Try to see if you can make it look that way as in the pics using React, as the image you are seeing is a form I did using pure HTML/CSS/PHP handling.
 
-Hint: From my attempt of trying to do the same with React, I believe the issue is how React is collecting the api data and if its properly accessing those data structures in that dynamic form.
+Hint: From my attempt of trying to do the same with React, I believe the issue is how React is collecting the api data and if its properly accessing those data structures in that dynamic form. 
+
+Hint: Make use of console.log in order to check for bugs as well
 
 GOOD LUCK! 
