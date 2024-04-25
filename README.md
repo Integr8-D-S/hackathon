@@ -14,11 +14,11 @@ In the homepage you would see, I want to create a dynamic form which is being ge
 
 Below is an example of how I expect the form to look like:
 
-![Screenshot (1547)](https://github.com/Integr8-D-S/hackathon/assets/42210784/6cbdc978-e188-422b-81e4-426e387dc578)
+![Screenshot (1547)](https://github.com/Integr8-D-S/hackathon/assets/42210784/0b85f394-edc7-42fd-83ec-54eadffe0308)
 
-![Screenshot (1545)](https://github.com/Integr8-D-S/hackathon/assets/42210784/c8cbcfb4-af7c-4c09-b209-185c13674e95)
+![Screenshot (1545)](https://github.com/Integr8-D-S/hackathon/assets/42210784/d65c0ddd-91f6-4e4d-9aef-73bb78a67981)
 
-![Screenshot (1546)](https://github.com/Integr8-D-S/hackathon/assets/42210784/581e25fc-a17e-426c-a17b-44347a542b08)
+![Screenshot (1546)](https://github.com/Integr8-D-S/hackathon/assets/42210784/9d5c51e9-0c3b-4472-849b-2ba97b604132)
 
 Each rows are grouped and have checkboxes for their own individual groups. Try to see if you can make it look that way as in the pics using React, as the image you are seeing is a form I did using pure HTML/CSS/PHP handling.
 
